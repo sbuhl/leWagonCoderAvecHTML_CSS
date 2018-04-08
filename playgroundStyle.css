@@ -1,0 +1,32 @@
+body{
+	margin: 0px;
+	color: rgb(20, 20, 20);
+	font-family: 'Open Sans', sans-serif;
+	background: rgb(245, 245, 245);}
+h1{
+    font-family: 'Lobster', cursive;
+	font-size: #23AAFD; }
+p{
+	font-size: 16px;
+	line-height: 20px;}
+#my-header{
+	text-align: center;
+	padding: 150px 0 150px;
+	color: white;
+	background-image: url("http://lorempixel.com/1300/600/sports/1/"); }
+.feature{
+	font-weight: 300;
+	padding: 40px;}
+.feature img{
+	padding: 20px;
+	border: 2px solid black;
+	border-radius: 50%;}
+#my-footer{
+	padding: 30px;
+	background: rgb(30, 30, 30);
+	color: lightgrey;}
+#my-footer a{
+	color: lightgrey;
+	font-size: 25px;}
+#my-footer a:hover{
+	color: white;}
